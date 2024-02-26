@@ -1,0 +1,15 @@
+argparse
+streamlit==1.29.0
+streamlit-camera-input-live==0.2.0
+streamlit-card==1.0.0
+streamlit-embedcode==0.1.2
+streamlit-extras==0.3.5
+streamlit-faker==0.0.3
+streamlit-image-coordinates==0.1.6
+streamlit-image-select==0.6.0
+streamlit-keyup==0.2.0
+streamlit-toggle-switch==1.0.2
+streamlit-vertical-slider==1.0.2
+matplotlib==3.8.2
+numpy==1.26.2
+pathlib==1.0.1
